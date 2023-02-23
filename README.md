@@ -19,5 +19,16 @@ pip install politicsnlp
 import politicsnlp as poli
 ```
 
+## Module:
+|  Module   | Content  |
+|  :----:  | :----:  |
+| **Core**  | `Democracy`，`Freedom`，`Justice`，`Spirit Of The Law`|
+| **Form Of Government**  | `Aristocracy`，`Autocracy`，`Colonialism`，`Communism`，`Direct Democracy`，`Monarchy`，`Oligarchy`，`Representative Democracy`，`Socialism`，`Theocracy`|
+| **Ideology**  | `Confucianism`，`Nationalism`|
+| **Individual**  | `Monarch`，`Strongman`，`Tyrant`|
+| **Marxism**  | `Marxism`，`Mao Zedong Thought`，`Deng Xiaoping Theory`，`Xi Jinping Thought`|
+
+
+
 
 Check out: https://cpanlp.com
