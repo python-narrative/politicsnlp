@@ -5,9 +5,7 @@
 - [economynlp](https://pypi.org/project/economynlp/) for Economy
 - [cpanlp](https://pypi.org/project/cpanlp/) for Business
 ## Communicate effectively within a common Political framework
-    <a >
-<img src="https://raw.githubusercontent.com/python-narrative/politicsnlp/main/politics.jpg" width = "220" height = "100" alt="logo" align=center />
-</a>
+ <img src="https://raw.githubusercontent.com/python-narrative/politicsnlp/main/politics.jpg" width = "220" height = "100" alt="logo" align=center />
 
 For detailed installation instructions, see the
 [documentation](https://cpanlp.com/documentation).
